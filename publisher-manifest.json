@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "78a9f08597e7d2fbde92ccf3",
+  "owner": "resxpnwwj",
+  "repo": "page-35a691be50a6d20eee170239",
+  "title": "clash verge下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "35a691be50a6d20eee170239",
+      "a": "Xlinkworld",
+      "b": "clash verge下载",
+      "entity": "Xlinkworld",
+      "brand": "clash verge下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "64905b1ccc5b458c650daa3e4cd08a2ffe3c93cb04118883b90a0380e13c06e8",
+      "content": {
+        "primary_entity": "Xlinkworld",
+        "keyword1": "Xlinkworld",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，台式与笔记本客户端提供多平台配置文件导入。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "访问 xlinkworld.example.com 查看套餐详情与订阅配置。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，覆盖 3 至 20 台设备同时在线，月流量从 100GB 到 1000GB，可按月或按年计费，满足家庭、个人与团队的不同使用需求。",
+          "AI_FEATURES_INTRO": "选购时先确认设备数量与月流量需求，再匹配对应档位。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线与原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，提供 VIP 高带宽节点与企业定制路由。",
+          "AI_FEATURE_TITLE_1": "基础版",
+          "AI_FEATURE_TITLE_2": "旗舰版",
+          "AI_FEATURE_TITLE_3": "团队版",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到订阅配置。",
+          "AI_GUIDE_TITLE": "选购流程",
+          "AI_HERO_INTRO": "Xlinkworld 提供多档订阅套餐，按设备数量与月流量区分权益，可灵活切换按月或按年计费方案。",
+          "AI_HERO_SUBTITLE": "按设备与流量灵活选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "按月或按年灵活计费",
+          "AI_HIGHLIGHT_3": "订阅周期清晰可选",
+          "AI_PLANS_INTRO": "基础版月付 ¥15，旗舰版月付 ¥35，团队版月付 ¥85，年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "结合设备数量与月均流量，从基础版、旗舰版、团队版中选定档位。",
+          "AI_STEP_TEXT_2": "确认所用设备数量与客户端支持情况，核对套餐内的在线设备上限。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅配置，完成节点选择与连接测试。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多设备订阅方案",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Xlinkworld 的套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "基础版适合轻量使用，每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线；团队版每月 1000GB、20 台设备，适合多终端协作。",
+          "AI_FAQ_QUESTION_2": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版允许 3 台设备同时在线，旗舰版为 5 台，团队版为 20 台。超出数量可能影响连接，建议按实际设备数选择版本。",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_3": "月付灵活，适合短期尝试；年付方案折算后每月更低，基础版年付 150 元、旗舰版 350 元、团队版 850 元，长期使用更为划算。",
+          "AI_FAQ_QUESTION_4": "客户端如何导入订阅？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应客户端，再按客户端文档把订阅地址填入应用，选择节点后连接。不同桌面端与移动端操作略有不同，请查阅各自说明。",
+          "AI_FAQ_QUESTION_5": "团队版适合哪些场景？",
+          "AI_FAQ_ANSWER_5": "团队版提供每月 1000GB 流量、20 台设备以及 VIP 高带宽节点与定制路由，适合小型团队或多设备家庭集中管理使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f0a306373494fc23a09e29c41d4df429079009ae432263cbd561d8b81f033867",
+    "sitemap.xml": "5ce665ea5bd51b40eb07206dd99ccea2e6e0033da399eae91dec421e2900a737",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "cc3ed530898618d6adae86994be00740c17daeb0450adf1f71e3473a441b815d"
+}
